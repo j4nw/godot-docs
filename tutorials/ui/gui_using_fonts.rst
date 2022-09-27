@@ -28,6 +28,7 @@ and **distance field**. Distance field fonts were never reimplemented
 for Godot 3 and do not work in that version.
 
 Dynamic Font supports the following formats:
+
 - TrueType (``.ttf``)
 - OpenType (``.otf``)
 - Web Open Font Format 1 (``.woff``)
